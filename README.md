@@ -2,7 +2,7 @@
 
 [![CI Status](https://github.com/mbarbin/pp-log/workflows/ci/badge.svg)](https://github.com/mbarbin/pp-log/actions/workflows/ci.yml)
 
-⚠️ This project is still active, but it has moved [there](https://github.com/mbarbin/pplombing). This repository will be archived and made read-only.
+⚠️ This project is still active, but it has moved [there](https://github.com/mbarbin/pplumbing). This repository will be archived and made read-only.
 
 ----
 
